@@ -1,6 +1,7 @@
+# update below paramertes - Bastion/Boostrap VM 
 vsphere_server = "192.168.5.152"
 vsphere_user = "administrator@vsphere.local"
-vsphere_password = "Tanzu@123"
+vsphere_password = "XXXXX"
 vsphere_datacenter = "DC-HYD"
 vsphere_resource_pool = "mgmt/Resources"
 vsphere_datastore = "disk2"
