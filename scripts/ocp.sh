@@ -1,4 +1,4 @@
-# OCP Deployment Requied Parametes   -- Update Parameters based on your env and requirements . 
+# OCP Deployment Requied Parameters   -- Update Parameters based on your env and requirements . 
 vCenter_Server='vcenter.kdinesh.in'          
 OPENSHIFT_VER='4.11.26'                      
 DOMAIN='kdinesh.in'                           
